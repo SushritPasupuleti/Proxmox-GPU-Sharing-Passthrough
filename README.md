@@ -6,6 +6,7 @@ Share one GPU with any number of VMs created using Proxmox
 
 > Gave up on this because of the dependency on the proprietary driver.
 
+> If you have a dGPU and iGPU, try direct passthrough. As it stands now, GPU sharing is locked to Enterprise, which I didn't realize until half way through the guide.
 
 ## Setup
 
